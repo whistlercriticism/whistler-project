@@ -1,3 +1,5 @@
 # whistler-project
 
-[whistlercriticism.github.io](whistlercriticism.github.io)
+
+
+[whistlercriticism](https://whistlercriticism.github.io/whistler-project/)
